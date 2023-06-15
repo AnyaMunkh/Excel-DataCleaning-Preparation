@@ -8,3 +8,4 @@
 For the closer look at each function used in the cleaning process, please proceed to download the excel file.
 
 
+##### ● Different types of data cleaning methods were taken
