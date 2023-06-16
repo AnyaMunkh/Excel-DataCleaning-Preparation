@@ -1,8 +1,10 @@
 # Excel-DataCleaning-Preparation
 
-#### In this simple Excel data cleaning project I aimed to enhance the accuracy, usability and consistency of the data for possible data analysis.
+#### In this simple Excel data cleaning project I aimed to enhance the accuracy, usability and consistency of the data,  paving the way for potential data analysis.
 
-##### ● Different types of data cleaning methods were taken in this project such as replacing and getting rid of unwanted spaces and characters, extracting one kind of data from one another and populating them separately by using SUBSTITUTE, CODE, TRIM, MID/LEFT and Date.
-##### ● You can see the end result the of the data enhanced by 100%
+##### Key highlights of the project include:
+- Employing various data cleaning techniques to address specific challenges encountered. This involved replacing unwanted spaces and characters, extracting specific data elements, and segregating them using functions such as SUBSTITUTE, CODE, TRIM, MID/LEFT, and Date.
+- By leveraging these methods, I successfully enhanced the data quality and ensured its integrity, resulting in a substantial improvement of 100% in the overall data accuracy.
 
-For the closer look at each function used in the cleaning process, please proceed to download the excel file.
+For a comprehensive understanding of the cleaning process and a closer examination of each function utilized, I invite you to download the Excel file, where you can explore the end result and appreciate the enhanced data.
+
