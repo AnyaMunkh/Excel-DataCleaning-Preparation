@@ -4,7 +4,6 @@
 
 ##### Key highlights of the project include:
 - Employing various data cleaning techniques to address specific challenges encountered. This involved replacing unwanted spaces and characters, extracting specific data elements, and segregating them using functions such as SUBSTITUTE, CODE, TRIM, MID/LEFT, and Date.
-- By leveraging these methods, I successfully enhanced the data quality and ensured its integrity, resulting in a substantial improvement of 100% in the overall data accuracy.
+- By leveraging these methods, I successfully enhanced the data quality and ensured its integrity, resulting in a substantial improvement of 100% in the overall data usability.
 
-For a comprehensive understanding of the cleaning process and a closer examination of each function utilized, I invite you to download the Excel file, where you can explore the end result and appreciate the enhanced data.
-
+For a comprehensive understanding of the cleaning process and a closer examination of each function utilized, I invite you to download the Excel file. 
